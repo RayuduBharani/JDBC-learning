@@ -3,6 +3,8 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/src/main/java/com/bharani/DeleteQuery.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/bharani/Main.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bharani/Optimalway.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bharani/PrepareStatement.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/bharani/UpdateQuery.java" dialect="GenericSQL" />
   </component>
 </project>
